@@ -31,3 +31,6 @@ Manufacturing Retailer Inventory Dataset (3,000 observations)
 - Language: Python
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
 - Environment: Jupyter Notebook
+
+## Disclaimer: 
+This project was developed as part of a Master of Business Analytics program at Macquarie University. The raw dataset is not provided in this repository due to academic and proprietary restrictions. The code serves as a demonstration of machine learning application and feature engineering skills.
